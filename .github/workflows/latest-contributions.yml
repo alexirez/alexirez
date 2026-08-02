@@ -1,8 +1,5 @@
 name: Update Recent Activity And Streak
 on:
-  schedule:
-    - cron: "53 18 * * *"
-    - cron: "7 3 * * *"
   workflow_dispatch:
 
 permissions:
