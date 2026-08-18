@@ -1,10 +1,6 @@
-<div align="center">
+## welcome 👋
 
-# Welcome to my profile! 👋
-
-</div><br>
-
-I mostly focus on backend, with most of my experience being in .NET. In my free time, I also like making games.<br><br>
+I mostly focus on backend, with special interest in react apps and .NET. In my free time, I also like making games.<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexirez&theme=default)](https://git.io/streak-stats)
 
@@ -22,13 +18,6 @@ I mostly focus on backend, with most of my experience being in .NET. In my free 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,github,docker,latex,figma,blender,unity" />
 </p>
-
----
-
-### 💡 Currently Learning
-- **TypeScript**
-- **Node.js**
-- **Phaser**
 
 ---
 
