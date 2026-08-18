@@ -3,9 +3,9 @@
 I mostly focus on backend, with special interest in react apps and .NET. In my free time, I also like making games.
 
 
-Try out my newest game here: 👇
-<p align="left"> <a href="https://alexirez.github.io/excavaze.io/"> <img src="/readme-assets/play-button-green.svg" width="250" alt="Play excavaze.io"> </a> </p>
-
+<p align="left">
+<img src="https://raw.githubusercontent.com/alexirez/alexirez/main/readme-assets/play-button-green.svg" width="180" alt="Play excavaze.io" align="middle">  &nbsp;&nbsp;👈 Try my newest game, directly on browser!
+</p>
 <br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexirez&theme=default)](https://git.io/streak-stats)
