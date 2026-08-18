@@ -1,6 +1,12 @@
 ## welcome 👋
 
-I mostly focus on backend, with special interest in react apps and .NET. In my free time, I also like making games.<br><br>
+I mostly focus on backend, with special interest in react apps and .NET. In my free time, I also like making games.
+
+
+Try out my newest game here: 👇
+<p align="left"> <a href="https://alexirez.github.io/excavaze.io/"> <img src="/readme-assets/play-button-green.svg" width="300" alt="Play excavaze.io"> </a> </p>
+
+<br><br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexirez&theme=default)](https://git.io/streak-stats)
 
