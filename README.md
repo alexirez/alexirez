@@ -4,7 +4,7 @@ I mostly focus on backend, with special interest in react apps and .NET. In my f
 
 
 Try out my newest game here: 👇
-<p align="left"> <a href="https://alexirez.github.io/excavaze.io/"> <img src="/readme-assets/play-button-green.svg" width="300" alt="Play excavaze.io"> </a> </p>
+<p align="left"> <a href="https://alexirez.github.io/excavaze.io/"> <img src="/readme-assets/play-button-green.svg" width="250" alt="Play excavaze.io"> </a> </p>
 
 <br><br>
 
