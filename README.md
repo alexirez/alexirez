@@ -5,7 +5,7 @@ You can try my newest game <a href="https://alexirez.github.io/excavaze.io/">her
 <p align="left">
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,typescript,python,java,dotnet,nodejs,react,svelte,maven" />
+  <img src="https://skillicons.dev/icons?i=cs,typescript,python,java,dotnet,nodejs,react,svelte,postgres" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,github,docker,latex,figma,blender,unity" />
