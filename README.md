@@ -1,7 +1,7 @@
 ## welcome 👋
 
 I mostly focus on backend, with special interest in react apps and .NET. In my free time, I also like making games.<br>
-<a href="https://alexirez.github.io/excavaze.io/">Try out my newest game</a> directly on browser!
+You can try my newest game <a href="https://alexirez.github.io/excavaze.io/">here</a>, directly on browser!
 <p align="left">
 <br>
 <p align="center">
